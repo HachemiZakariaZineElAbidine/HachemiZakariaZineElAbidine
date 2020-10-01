@@ -15,7 +15,7 @@ SOME DESCRIPTION HERE
   </a>
 
   <a href="https://www.linkedin.com/in/zakaria-hachemi-9548321a9/" target="_blank">
-	<img src="https://img.shields.io/badge/LinkedIn-#0077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
 </p>
