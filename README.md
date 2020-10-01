@@ -3,6 +3,9 @@
 SOME DESCRIPTION HERE
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HachemiZakariaZineElAbidine&show_icons=true&theme=dracula&line_height=27" alt="HachemiZakariaZineElAbidine's github stats"/>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HachemiZakariaZineElAbidine)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center"> 
   <i> Let's connect! :incoming_envelope: </i>
